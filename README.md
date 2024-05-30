@@ -31,7 +31,7 @@ Soy un **Ingeniero en Computación** especializado en **Data Science**. Actualme
 - **Descripción:** Analicé datos de viajes de taxis en Chicago para identificar patrones y realizar pruebas de hipótesis sobre la duración de los viajes. Este proyecto incluyó la extracción de datos, su limpieza y análisis, así como la generación de visualizaciones para representar los hallazgos.
 
 ## Habilidades
-- **Lenguajes de Programación:** Python, C#, JavaScript, SQL
+- **Lenguajes de Programación:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), C#, JavaScript, SQL
 - **Data Science:** pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly
 - **Desarrollo Web:** HTML, CSS, JavaScript, React
 - **Herramientas:** Git, Jupyter Notebooks, Excel, Power BI
