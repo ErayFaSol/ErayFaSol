@@ -1,9 +1,9 @@
 # ¡Hola, soy Eduardo de Jesús Franco Solórzano! 👋
 
-## Sobre mí
+## Sobre mí 📄
 Soy un **Ingeniero en Computación** especializado en **Data Science**. Actualmente trabajo como **Auxiliar de Soporte IT** y estoy cursando un **curso de Data Scientist en línea**. Tengo experiencia en **Python**, **pandas**, **Plotly**, **Streamlit**, entre otras tecnologías.
 
-## Proyectos Destacados
+## Proyectos Destacados 🚀
 
 ### [Manipulacion de datos (Data Wrangling)](https://github.com/ErayFaSol/Sprint-6-proyecto-intregado-1-)
 - **Tecnologías:** Python, pandas, jupyter Notebook
@@ -17,7 +17,7 @@ Soy un **Ingeniero en Computación** especializado en **Data Science**. Actualme
 - **Tecnologías:** Python, pandas, matplotlib, scipy
 - **Descripción:** Analicé datos de viajes de taxis en Chicago para identificar patrones y realizar pruebas de hipótesis sobre la duración de los viajes. Este proyecto incluyó la extracción de datos, su limpieza y análisis, así como la generación de visualizaciones para representar los hallazgos.
 
-## Habilidades
+## Habilidades 💡
 - **Lenguajes de Programación:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -47,6 +47,6 @@ Soy un **Ingeniero en Computación** especializado en **Data Science**. Actualme
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-## Contacto
+## Contacto 📞
 - **Correo:** [ejfrancos99@gmail.com](mailto:ejfrancos99@gmail.com)
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/eduardo-j-franco-s/)
