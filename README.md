@@ -7,13 +7,12 @@ Soy un **Ingeniero en Computación** especializado en **Data Science**. Actualme
 
 ### [Manipulacion de datos (Data Wrangling)](https://github.com/ErayFaSol/Sprint-6-proyecto-intregado-1-)
 - **Tecnologías:** Python, pandas, jupyter Notebook
-- **Descripción:** Analizar los patrones de compras en una plataforma de entrega de comestibles y descubrir insights clave y probar varias hipotesis sobre el comportamiento del usuario.
+- **Descripción:** Analicé los patrones de compras en una plataforma de entrega de comestibles, descubriendo insights clave y probando varias hipótesis sobre el comportamiento del usuario. Este proyecto se centró en la limpieza, transformación y análisis de datos.
 
 
 ### [Proyecto integrado 1](https://github.com/ErayFaSol/Sprint-6-proyecto-intregado-1-)
 - **Tecnologías:** Python, pandas, seaborn, matplotlib
-- **Descripción:** Identificar patrones que determinen el éxito de videojuegos utilizando datos
-históricos de ventas y reseñas
+- **Descripción:** Identifiqué patrones que determinan el éxito de videojuegos utilizando datos históricos de ventas y reseñas. Este proyecto se centró en el análisis de datos y la creación de modelos predictivos para entender mejor las variables que influyen en el éxito comercial de los videojuegos.
 
 ### [Análisis Estadístico de Datos](https://github.com/ErayFaSol/Sprint-4-Analisis-estadistico-de-datos)
 - **Tecnologías:** Python, Pandas, NumPy, Matplotlib, Scipy, IPython
@@ -26,6 +25,10 @@ históricos de ventas y reseñas
 ### [Introducción al Machine Learning](https://github.com/ErayFaSol/Sprint-8-introduccion-al-machine-learning)
 - **Tecnologías:** Python, pandas, seaborn, matplotlib
 - **Descripción:** Desarrollé un modelo de clasificación para recomendar planes de telefonía móvil basados en el comportamiento de los clientes. Este proyecto incluyó la preparación de datos, la selección de características y la implementación de algoritmos de clasificación.
+
+### [Recopilación y Almacenamiento de Datos (SQL)](https://github.com/ErayFaSol/Sprint-7-Recopilacion-y-almacenamiento-de-datos--SQL-)
+- **Tecnologías:** Python, pandas, matplotlib, scipy
+- **Descripción:** Analicé datos de viajes de taxis en Chicago para identificar patrones y realizar pruebas de hipótesis sobre la duración de los viajes. Este proyecto incluyó la extracción de datos, su limpieza y análisis, así como la generación de visualizaciones para representar los hallazgos.
 
 ## Habilidades
 - **Lenguajes de Programación:** Python, C#, JavaScript, SQL
