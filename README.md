@@ -5,7 +5,7 @@ Soy un **Ingeniero en Computación** especializado en **Data Science**. Actualme
 
 ## Proyectos Destacados
 
-### [Manipulacion de datos (Data Wrangling)](ttps://github.com/ErayFaSol/Sprint-3-manipulacion-de-datos--DataWrangling)
+### [Manipulacion de datos (Data Wrangling)](https://github.com/ErayFaSol/Sprint-6-proyecto-intregado-1-)
 - **Tecnologías:** Python, pandas, jupyter Notebook
 - **Descripción:** Analizar los patrones de compras en una plataforma de entrega de comestibles y descubrir insights clave y probar varias hipotesis sobre el comportamiento del usuario.
 
