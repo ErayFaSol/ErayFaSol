@@ -10,10 +10,22 @@ Soy un **Ingeniero en Computación** especializado en **Data Science**. Actualme
 - **Descripción:** Analizar los patrones de compras en una plataforma de entrega de comestibles y descubrir insights clave y probar varias hipotesis sobre el comportamiento del usuario.
 
 
-### [Proyecto integrado 1 ](link_al_repositorio)
+### [Proyecto integrado 1](https://github.com/ErayFaSol/Sprint-6-proyecto-intregado-1-)
 - **Tecnologías:** Python, pandas, seaborn, matplotlib
 - **Descripción:** Identificar patrones que determinen el éxito de videojuegos utilizando datos
 históricos de ventas y reseñas
+
+### [Análisis Estadístico de Datos](https://github.com/ErayFaSol/Sprint-4-Analisis-estadistico-de-datos)
+- **Tecnologías:** Python, Pandas, NumPy, Matplotlib, Scipy, IPython
+- **Descripción:** Realicé un análisis comparativo de dos tarifas de prepago para determinar cuál genera más ingresos. Este proyecto incluyó el análisis estadístico y la visualización de datos para proporcionar recomendaciones basadas en los resultados.
+
+### [Herramientas de Desarrollo de Software](https://github.com/ErayFaSol/Sprint-5-Herramientas-de-desarrollo-de-software)
+- **Tecnologías:** Python, pandas, Plotly, Streamlit
+- **Descripción:** Analicé datos de anuncios de venta de coches en Estados Unidos y construí visualizaciones interactivas para facilitar la comprensión de estos datos. El objetivo fue proporcionar insights útiles para la toma de decisiones mediante visualizaciones claras y efectivas.
+
+### [Introducción al Machine Learning](https://github.com/ErayFaSol/Sprint-8-introduccion-al-machine-learning)
+- **Tecnologías:** Python, pandas, seaborn, matplotlib
+- **Descripción:** Desarrollé un modelo de clasificación para recomendar planes de telefonía móvil basados en el comportamiento de los clientes. Este proyecto incluyó la preparación de datos, la selección de características y la implementación de algoritmos de clasificación.
 
 ## Habilidades
 - **Lenguajes de Programación:** Python, C#, JavaScript, SQL
