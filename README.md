@@ -5,13 +5,15 @@ Soy un **Ingeniero en Computación** especializado en **Data Science**. Actualme
 
 ## Proyectos Destacados
 
-### [Análisis de Datos de Anuncios de Venta de Coches en los Estados Unidos](link_al_repositorio)
-- **Tecnologías:** Python, pandas, Plotly, Streamlit
-- **Descripción:** Análisis de datos de anuncios de venta de coches, con visualizaciones interactivas.
+### [Manipulacion de datos (Data Wrangling)](ttps://github.com/ErayFaSol/Sprint-3-manipulacion-de-datos--DataWrangling)
+- **Tecnologías:** Python, pandas, jupyter Notebook
+- **Descripción:** Analizar los patrones de compras en una plataforma de entrega de comestibles y descubrir insights clave y probar varias hipotesis sobre el comportamiento del usuario.
 
-### [Nombre del Proyecto](link_al_repositorio)
-- **Tecnologías:** [Tecnologías utilizadas]
-- **Descripción:** [Descripción breve del proyecto]
+
+### [Proyecto integrado 1 ](link_al_repositorio)
+- **Tecnologías:** Python, pandas, seaborn, matplotlib
+- **Descripción:** Identificar patrones que determinen el éxito de videojuegos utilizando datos
+históricos de ventas y reseñas
 
 ## Habilidades
 - **Lenguajes de Programación:** Python, C#, JavaScript, SQL
@@ -20,5 +22,5 @@ Soy un **Ingeniero en Computación** especializado en **Data Science**. Actualme
 - **Herramientas:** Git, Jupyter Notebooks, Excel, Power BI
 
 ## Contacto
-- **Correo:** [tu_email@example.com](mailto:tu_email@example.com)
-- **LinkedIn:** [LinkedIn](link_a_tu_linkedin)
+- **Correo:** [ejfrancos99@gmail.com](mailto:ejfrancos99@gmail.com)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/eduardo-j-franco-s/)
