@@ -1,7 +1,7 @@
 # ¡Hola, soy Eduardo de Jesús Franco Solórzano! 👋
 
 ## Sobre mí 📄
-Soy un **Ingeniero en Computación** especializado en **Data Science**. Actualmente trabajo como **Auxiliar de Soporte IT** y estoy cursando un **curso de Data Scientist en línea**. Tengo experiencia en **Python**, **pandas**, **Plotly**, **Streamlit**, entre otras tecnologías.
+Soy un **Ingeniero en Computación** especializado en **Data Science**. Actualmente trabajo como **Auxiliar de Soporte IT** y he finalizado un curso un **curso de Data Scientist en línea**. Tengo experiencia en **Python**, **pandas**, **Plotly**, **Streamlit**, entre otras tecnologías.
 
 ## Habilidades 💡
 - **Lenguajes de Programación:**
